@@ -15,3 +15,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuki-hara)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazuki-hara)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Credly]](https://www.credly.com/badges/17138e59-de3f-490d-a567-a33ef0212b48)
