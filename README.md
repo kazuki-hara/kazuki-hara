@@ -12,8 +12,8 @@
   </a>
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuki-hara)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazuki-hara)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
 
-[![Credly]](https://www.credly.com/badges/17138e59-de3f-490d-a567-a33ef0212b48)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=juicyfresh&no-bg=true" />
